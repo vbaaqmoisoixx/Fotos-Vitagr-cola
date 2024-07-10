@@ -9,6 +9,13 @@ body {
     
 }
 
+#produtos-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
 .header {
     display: flex;
     flex-direction: column;
@@ -49,7 +56,7 @@ h1, a {
     background-color: #006920;
     color: #ffffffe5;
     padding: 5px;
-    margin-top: 29.8rem;
+    margin-top: 18.6rem;
     display: flex;
-    flex-direction: column;
+    flex-direction: column; 
 }
